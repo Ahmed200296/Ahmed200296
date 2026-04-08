@@ -80,6 +80,6 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: **(https://www.linkedin.com/in/ahmed-mahmoud2003/)**
-- 📧 Email: **(https://www.gmail.com/in/engahmedmahmoud2003@gmail.com)**
+- 📧 Email: **engahmedmahmoud2003@gmail.com**
 - 🌐 Portfolio: **Add Portfolio Link**
 
