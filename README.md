@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
 <h1>Hi 👋 I'm Ahmed Mahmoud</h1>
-<h3>💻 Web Developer | 🌐 Networking Engineer | 🚀 Lifelong Learner</h3>
+<h3>💻 Web Developer | 🌐 Networking Engineer </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
@@ -18,7 +18,7 @@
 - 🌍 Based in **Cairo, Egypt**
 - 💻 Passionate about **Web Development & Networking**
 - 📚 Currently studying **CCNA & Networking Technologies**
-- 🚀 Goal: Become **Network Engineer + Backend Developer**
+- 🚀 Goal: Become **Network Engineer + Frontend Developer**
 
 ---
 
@@ -45,7 +45,6 @@
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -53,9 +52,8 @@
 ## 🧠 Currently Learning
 
 - 🔥 CCNA Certification
-- Backend Development
+- Frontend Development
 - Network Automation
-- Linux Administration
 
 ---
 
@@ -86,8 +84,3 @@
 - 📧 Email: **Add Your Email**
 - 🌐 Portfolio: **Add Portfolio Link**
 
----
-
-## ⚡ Fun Fact
-
-> I love solving networking problems more than sleeping 😄
